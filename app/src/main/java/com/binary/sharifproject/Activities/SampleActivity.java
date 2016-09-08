@@ -27,6 +27,11 @@ public class SampleActivity extends CActivity {
     /*Activity Values*/
     int idCategory;
 
+
+    //hoseinnnnnnn
+
+
+
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
